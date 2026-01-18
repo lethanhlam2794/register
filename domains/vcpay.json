@@ -1,0 +1,7 @@
+{
+  "description": "VC Pay documentation",
+  "repo": "https://github.com/yourname/vcpay-docs",
+  "dns": {
+    "CNAME": "58eca79e91-hosting.gitbook.io"
+  }
+}
